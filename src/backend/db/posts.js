@@ -92,12 +92,12 @@ export const posts = [
           lastName: "test",
           username: "test_test",
           avatarURL:
-            "https://res.cloudinary.com/dkwrbu6qr/image/upload/v1654849601/xbgauzp0wzv2czv5kqpo.jpg",
+            "https://images.unsplash.com/photo-1524860769472-246b6afea403?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
         },
       ],
       dislikedBy: [],
     },
-    username: "deshwani_nikhil",
+    username: "nick_deshwani",
     comments: [
       {
         _id: uuid(),
@@ -113,7 +113,7 @@ export const posts = [
       },
       {
         _id: uuid(),
-        username: "deshwani_nikhil",
+        username: "nick_deshwani",
         text: "Wow!",
         avatarURL:
           "https://res.cloudinary.com/dkwrbu6qr/image/upload/v1654851343/images_qin5ab.jpg",
@@ -156,7 +156,7 @@ export const posts = [
           lastName: "test",
           username: "test_test",
           avatarURL:
-            "https://res.cloudinary.com/dkwrbu6qr/image/upload/v1654849601/xbgauzp0wzv2czv5kqpo.jpg",
+            "https://images.unsplash.com/photo-1524860769472-246b6afea403?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
         },
       ],
       dislikedBy: [],
@@ -219,7 +219,7 @@ export const posts = [
           lastName: "test",
           username: "test_test",
           avatarURL:
-            "https://res.cloudinary.com/dkwrbu6qr/image/upload/v1654849601/xbgauzp0wzv2czv5kqpo.jpg",
+            "https://images.unsplash.com/photo-1524860769472-246b6afea403?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
         },
       ],
       dislikedBy: [],
@@ -279,7 +279,7 @@ export const posts = [
       ],
       dislikedBy: [],
     },
-    username: "deshwani_nikhil",
+    username: "nick_deshwani",
     comments: [
       {
         _id: uuid(),
