@@ -5,7 +5,7 @@ import "react-toastify/dist/ReactToastify.css";
 
 function App() {
   return (
-    <div className="App bg-neutral-50">
+    <div className="App bg-neutral-50 m-auto max-w-screen-2xl">
       <NavRoutes />
       <ToastContainer
         position="top-right"

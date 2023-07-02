@@ -2,6 +2,7 @@ import { useRef } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { searchedUsersHandler } from "../../reducers/userSlice";
 import { SearchedUsersModal } from "../SearchedUsersModal/SearchedUsersModal";
+import "./SearchBar.css";
 
 export const SearchBar = () => {
   const { searchedUsers } = useSelector((state) => state.users);
@@ -30,7 +31,7 @@ export const SearchBar = () => {
 
   return (
     <div className="mt-2 lg:mt-5 relative">
-      <div className="flex items-center md:gap-4 md:w-full bg-slate-200 py-2 px-4 lg:py-3 rounded-full focus-within:ring-1 focus-within:ring-sky-400 focus-within:bg-neutral-50">
+      <div className="flex items-center md:gap-4 md:w-full bg-slate-200 py-2 px-4 lg:py-3 rounded-full focus-within:ring-1 focus-within:ring-sky-400 focus-within:bg-neutral-50 searchBarCon">
         <span className="text-slate-500">
           <i className="fa-solid fa-magnifying-glass "></i>
         </span>
