@@ -31,14 +31,14 @@ export const SearchBar = () => {
 
   return (
     <div className="mt-2 lg:mt-5 relative">
-      <div className="flex items-center md:gap-4 md:w-full bg-slate-200 py-2 px-4 lg:py-3 rounded-full focus-within:ring-1 focus-within:ring-sky-400 focus-within:bg-neutral-50 searchBarCon">
+      <div className="flex items-center md:gap-4 md:w-full bg-slate-200 py-2 px-4 lg:py-3 rounded-full focus-within:ring-1 focus-within:ring-sky-400 focus-within:bg-neutral-50">
         <span className="text-slate-500">
           <i className="fa-solid fa-magnifying-glass "></i>
         </span>
         <input
           type="text"
           placeholder="Search Users"
-          className="flex-grow bg-transparent mx-2 outline-none"
+          className="flex-grow bg-transparent mx-2 outline-none searchBarCon"
           ref={searchRef}
           onChange={textChangeHandler}
         />
