@@ -18,7 +18,7 @@ export const users = [
     bio: "Welcome to my world",
     website: "https://test.tech",
     avatarURL:
-      "https://images.unsplash.com/photo-1524860769472-246b6afea403?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+      "https://res.cloudinary.com/dvqztmtkq/image/upload/v1697612728/j1wbgskeody6lhtqxca8.jpg",
     following: [
       {
         _id: uuid(),
@@ -26,7 +26,7 @@ export const users = [
         lastName: "Deshwani",
         username: "nick_deshwani",
         avatarURL:
-          "https://images.unsplash.com/photo-1513789181297-6f2ec112c0bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=388&q=80",
+          "https://res.cloudinary.com/dvqztmtkq/image/upload/v1697610588/lywatdak9qqfaeckiiz6.jpg",
       },
       {
         _id: uuid(),
@@ -62,7 +62,7 @@ export const users = [
     bio: "Web Developer",
     website: "https://nikil-deshwani-portfolio.netlify.app/",
     avatarURL:
-      "https://images.unsplash.com/photo-1513789181297-6f2ec112c0bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=388&q=80",
+      "https://res.cloudinary.com/dvqztmtkq/image/upload/v1697610588/lywatdak9qqfaeckiiz6.jpg",
     following: [
       {
         _id: uuid(),
@@ -126,7 +126,7 @@ export const users = [
         lastName: "Deshwani",
         username: "nick_deshwani",
         avatarURL:
-          "https://images.unsplash.com/photo-1513789181297-6f2ec112c0bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=388&q=80",
+          "https://res.cloudinary.com/dvqztmtkq/image/upload/v1697610588/lywatdak9qqfaeckiiz6.jpg",
       },
       {
         _id: uuid(),
@@ -175,7 +175,7 @@ export const users = [
         lastName: "Deshwani",
         username: "nick_deshwani",
         avatarURL:
-          "https://images.unsplash.com/photo-1513789181297-6f2ec112c0bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=388&q=80",
+          "https://res.cloudinary.com/dvqztmtkq/image/upload/v1697610588/lywatdak9qqfaeckiiz6.jpg",
       },
       {
         _id: uuid(),
@@ -224,7 +224,7 @@ export const users = [
         lastName: "Deshwani",
         username: "nick_deshwani",
         avatarURL:
-          "https://images.unsplash.com/photo-1513789181297-6f2ec112c0bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=388&q=80",
+          "https://res.cloudinary.com/dvqztmtkq/image/upload/v1697610588/lywatdak9qqfaeckiiz6.jpg",
       },
     ],
     followers: [
@@ -256,7 +256,7 @@ export const users = [
         lastName: "Deshwani",
         username: "nick_deshwani",
         avatarURL:
-          "https://images.unsplash.com/photo-1513789181297-6f2ec112c0bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=388&q=80",
+          "https://res.cloudinary.com/dvqztmtkq/image/upload/v1697610588/lywatdak9qqfaeckiiz6.jpg",
       },
       {
         _id: uuid(),
@@ -311,7 +311,7 @@ export const users = [
         lastName: "Buffay",
         username: "phobe_buffay",
         avatarURL:
-          "https://images.unsplash.com/photo-1513789181297-6f2ec112c0bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=388&q=80",
+          "https://res.cloudinary.com/dvqztmtkq/image/upload/v1697610588/lywatdak9qqfaeckiiz6.jpg",
       },
     ],
     followers: [

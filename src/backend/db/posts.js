@@ -92,7 +92,7 @@ export const posts = [
           lastName: "test",
           username: "test_test",
           avatarURL:
-            "https://images.unsplash.com/photo-1524860769472-246b6afea403?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+            "https://res.cloudinary.com/dvqztmtkq/image/upload/v1697612728/j1wbgskeody6lhtqxca8.jpg",
         },
       ],
       dislikedBy: [],
@@ -156,7 +156,7 @@ export const posts = [
           lastName: "test",
           username: "test_test",
           avatarURL:
-            "https://images.unsplash.com/photo-1524860769472-246b6afea403?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+            "https://res.cloudinary.com/dvqztmtkq/image/upload/v1697612728/j1wbgskeody6lhtqxca8.jpg",
         },
       ],
       dislikedBy: [],
@@ -219,7 +219,7 @@ export const posts = [
           lastName: "test",
           username: "test_test",
           avatarURL:
-            "https://images.unsplash.com/photo-1524860769472-246b6afea403?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+            "https://res.cloudinary.com/dvqztmtkq/image/upload/v1697612728/j1wbgskeody6lhtqxca8.jpg",
         },
       ],
       dislikedBy: [],
