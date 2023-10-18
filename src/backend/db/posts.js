@@ -92,7 +92,7 @@ export const posts = [
           lastName: "test",
           username: "test_test",
           avatarURL:
-            "https://res.cloudinary.com/dvqztmtkq/image/upload/v1697612728/j1wbgskeody6lhtqxca8.jpg",
+            "https://res.cloudinary.com/dvqztmtkq/image/upload/v1697628713/wxntuno7yocnrg2eh3sa.png",
         },
       ],
       dislikedBy: [],
@@ -156,7 +156,7 @@ export const posts = [
           lastName: "test",
           username: "test_test",
           avatarURL:
-            "https://res.cloudinary.com/dvqztmtkq/image/upload/v1697612728/j1wbgskeody6lhtqxca8.jpg",
+            "https://res.cloudinary.com/dvqztmtkq/image/upload/v1697628713/wxntuno7yocnrg2eh3sa.png",
         },
       ],
       dislikedBy: [],
@@ -219,7 +219,7 @@ export const posts = [
           lastName: "test",
           username: "test_test",
           avatarURL:
-            "https://res.cloudinary.com/dvqztmtkq/image/upload/v1697612728/j1wbgskeody6lhtqxca8.jpg",
+            "https://res.cloudinary.com/dvqztmtkq/image/upload/v1697628713/wxntuno7yocnrg2eh3sa.png",
         },
       ],
       dislikedBy: [],

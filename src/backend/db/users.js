@@ -18,7 +18,7 @@ export const users = [
     bio: "Welcome to my world",
     website: "https://test.tech",
     avatarURL:
-      "https://res.cloudinary.com/dvqztmtkq/image/upload/v1697612728/j1wbgskeody6lhtqxca8.jpg",
+      "https://res.cloudinary.com/dvqztmtkq/image/upload/v1697628713/wxntuno7yocnrg2eh3sa.png",
     following: [
       {
         _id: uuid(),
