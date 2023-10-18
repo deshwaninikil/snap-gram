@@ -10,7 +10,7 @@ https://github.com/deshwaninikil/snap-gram/assets/79966144/77a4ed8f-660d-4aad-9c
 
 ```bash
 $ git clone https://github.com/deshwaninikil/snap-gram.git
-$ cd  shoes-store
+$ cd snap-gram
 $ npm install
 $ npm start
 
